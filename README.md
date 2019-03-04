@@ -1,12 +1,13 @@
 # gpm2spotify
 Google Play Music to Spotify Library Migrator
 
-Something I made in a couple of hours to celebrate Spotify's launch in India. The scripts is able to Migrate GPM library to Spotify. Without paying for any money or sharing your credential with shady third party. Just follow the instructions below
+Something I made in a couple of hours to celebrate Spotify's launch in India. The scripts is able to Migrate GPM library to Spotify. After scouring throuth the muck on internet the only ways to reliably migrate your library from GPM to spotify either took $ or Credentials to the services I hold dear and usually both which was a total no deal. So I quickly cooked up literally he first things I've ever written in python. I don't intend to maintain or update this since it has already served my purpose. But I wouldn't mind doing minor tweaks for a fellow music loving soul.
 
-What does this Scipt DO ?
+# What do these scripts actually do ?
 
-This script uses wrappers for Spotify and GPM Web APIs. gpm.py fetches your GPM library and Stores it in a file. spotify.py reads this file, searches for that track on spotify and adds it to your library and a playlist of your liking. To enable this to work you have to register a new App on Spotify developer account and use it to access Spotify web APIs 
+These scripts use wrappers for Spotify and GPM Web APIs to access and modify your libraries. 
 
+gpm.py fetches your GPM library and Stores it in a file. spotify.py reads this file, searches for that track on spotify and adds it to your library and a playlist of your liking. To enable this to work you have to register a new App on Spotify developer account and use it to access Spotify web APIs 
 
 All credits to creators of who made the amazing libraries which even made it possible for me to do something like this 
 
