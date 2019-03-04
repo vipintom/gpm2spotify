@@ -3,6 +3,12 @@ Google Play Music to Spotify Library Exporter
 
 Something I made in a couple of hours to celebrate Spotify's launch in India. The scripts is able to Migrate GPM library to Spotify. Without paying for any money or sharing your credential with shady third party. Just follow the instructions below
 
+All credits to creators of who made the amazing libraries which even made it possible for me to do something like this 
+
+Spotipy [https://spotipy.readthedocs.io/en/latest/]
+
+GMusicApi [https://unofficial-google-music-api.readthedocs.io/en/latest/]
+
 
 1. 	Download and Install Python from https://www.python.org/downloads/release/python-372/  (x86-64 Installer)
 
