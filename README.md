@@ -15,6 +15,7 @@ Spotipy [https://spotipy.readthedocs.io/en/latest/]
 
 GMusicApi [https://unofficial-google-music-api.readthedocs.io/en/latest/]
 
+# Instructions
 
 1. 	Download and Install Python from https://www.python.org/downloads/release/python-372/  (x86-64 Installer)
 
